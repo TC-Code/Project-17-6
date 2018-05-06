@@ -1,0 +1,25 @@
+{
+  "name": "project-17-6",
+  "version": "1.0.0",
+  "description": "17.6. Szablony HTML",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TC-Code/Project-17-6.git"
+  },
+  "author": "TC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TC-Code/Project-17-6/issues"
+  },
+  "homepage": "https://github.com/TC-Code/Project-17-6#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "pug": "^2.0.3"
+  }
+}
